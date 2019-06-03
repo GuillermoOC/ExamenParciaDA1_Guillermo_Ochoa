@@ -1,0 +1,46 @@
+body{
+    background-color: burlywood;
+}
+.contenido{
+    display:flex;
+    justify-content:center;
+}
+
+.cuadro_negro
+{
+    float: left;
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    left: 15%;
+    right: 15%;
+}
+.cuadro_blanco
+{
+    float: left;
+    background-color: white;
+    width: 80px;
+    height: 80px;
+    left: 15%;
+    right: 15%;
+
+}
+.cuadro_blanco2
+{
+    float: left;
+    background-color: white;
+    width: 80px;
+    height: 80px;
+    left: 15%;
+    right: 15%;
+
+}
+.cuadro_negro2
+{
+    float: left;
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    left: 15%;
+    right: 15%;
+}

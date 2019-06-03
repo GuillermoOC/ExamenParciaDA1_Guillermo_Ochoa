@@ -1,0 +1,24 @@
+{
+  "name": "examenparcial1",
+  "version": "1.0.0",
+  "description": "Tablero",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Guillermo Ochoa",
+  "license": "ISC",
+  "keywords": [
+    "examen",
+    "Ajedrez",
+    "AU",
+    "Trosado"
+  ]
+}
